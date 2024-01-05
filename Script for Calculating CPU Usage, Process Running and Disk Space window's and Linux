@@ -1,0 +1,3 @@
+The Python script is a simple system information tool that lets users check CPU usage, memory status, disk space, and running processes on their computer. Users can choose options like CPU, memory, disk, or processes and receive relevant information. The program prompts users for their operating system, accepts input in both upper and lower case, and provides an option to exit gracefully. This tool serves as a straightforward way for users to monitor key aspects of their system’s performance.
+Please find the link of medium
+https://medium.com/@raghvendran78/python-script-for-calculating-cpu-usage-process-running-and-disk-space-windows-and-linux-89764c488bbd
